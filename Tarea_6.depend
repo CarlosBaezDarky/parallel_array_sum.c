@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1750214929 source:c:\users\carlos\downloads\tarea_6\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<omp.h>
+
